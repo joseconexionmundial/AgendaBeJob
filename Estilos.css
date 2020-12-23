@@ -1,0 +1,35 @@
+h1{
+    color:firebrick;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#parrafo{
+    text-align: center;
+}
+#tabla{
+    border:midnightblue 4px solid;
+    padding: 12px;
+    background-color: darkgray;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+caption{
+    color: darkblue;
+}
+#primeralinea{
+    background-color:lightsteelblue;
+}
+#lista:hover{
+    background-color: slategrey;
+    color:white;
+    cursor: pointer;
+}
+#cuerpo{
+    background-image: url("tecnologiasinformaticas.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
