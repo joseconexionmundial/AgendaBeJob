@@ -20,7 +20,6 @@ and open the template in the editor.
    <h1>CENTRO DE FORMACIÓN BEJOB</h1>
    <h3 style="text-align: center;">Agenda de clientes: menú principal</h3>
    <ul style="list-style-type: disc">
-   <p>Prueba de tabla</p>
    <table align="center" id="tabla">
         <tr>
             <td><li id="lista"><a href="FormularioAltaCliente.php">Alta de clientes</a></li></td>
